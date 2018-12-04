@@ -1,8 +1,3 @@
-# NJUPT_work
->​ :happy: Maybe interesting things or homework
-
-
-
 ## A program finished in a week.That's for Program Week.
 
 ### 程序设计题：南邮图书馆管理系统
