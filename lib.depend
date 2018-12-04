@@ -1,0 +1,210 @@
+# depslib dependency file v1.0
+1543495553 source:g:\djx_program\library\ourlib\lib\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<conio.h>
+	<cstring>
+	"menu.h"
+	"file.h"
+	"main.h"
+	"boostFunction.h"
+	"Classtype.h"
+
+1543467249 g:\djx_program\library\ourlib\lib\menu.h
+	<string>
+
+1543499947 g:\djx_program\library\ourlib\lib\file.h
+	<string>
+	<map>
+	"Classtype.h"
+
+1543497993 source:g:\djx_program\library\ourlib\lib\file.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+	<sstream>
+	"main.h"
+	"file.h"
+	"Classtype.h"
+	"boostFunction.h"
+
+1543494264 g:\djx_program\library\ourlib\lib\main.h
+
+1543499899 source:g:\djx_program\library\ourlib\lib\classtype.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<algorithm>
+	<cstring>
+	"Classtype.h"
+	"main.h"
+	"boostFunction.h"
+	"file.h"
+	"menu.h"
+
+1543496089 g:\djx_program\library\ourlib\lib\classtype.h
+	<string>
+	<vector>
+
+1543491353 source:g:\djx_program\library\ourlib\lib\boostfunction.cpp
+	"boostFunction.h"
+	"main.h"
+	<fstream>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<algorithm>
+	<numeric>
+	<iostream>
+	<sstream>
+
+1543493960 g:\djx_program\library\ourlib\lib\boostfunction.h
+	<time.h>
+	<string>
+	<vector>
+	<cstdlib>
+
+1543544610 source:g:\djx_program\library\ourlib\library\boostfunction.cpp
+	"boostFunction.h"
+	"main.h"
+	<fstream>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<algorithm>
+	<numeric>
+	<iostream>
+	<sstream>
+
+1543544587 g:\djx_program\library\ourlib\library\boostfunction.h
+	<time.h>
+	<string>
+	<vector>
+	<cstdlib>
+
+1543540952 g:\djx_program\library\ourlib\library\main.h
+
+1543542072 source:g:\djx_program\library\ourlib\library\file.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+	<sstream>
+	<map>
+	"main.h"
+	"file.h"
+	"Classtype.h"
+	"boostFunction.h"
+
+1543542422 g:\djx_program\library\ourlib\library\file.h
+	<string>
+	<map>
+	"Classtype.h"
+
+1543541375 g:\djx_program\library\ourlib\library\classtype.h
+	<string>
+	<vector>
+
+1543541488 source:g:\djx_program\library\ourlib\library\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<conio.h>
+	<cstring>
+	"menu.h"
+	"file.h"
+	"main.h"
+	"boostFunction.h"
+	"Classtype.h"
+
+1543540805 g:\djx_program\library\ourlib\library\menu.h
+	<string>
+
+1543545251 source:g:\djx_program\library\ourlib\library\classtype.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<algorithm>
+	<cstring>
+	"Classtype.h"
+	"main.h"
+	"boostFunction.h"
+	"file.h"
+	"menu.h"
+
+1543544610 source:g:\c与c++、\programweek\library\ourlib\library\boostfunction.cpp
+	"boostFunction.h"
+	"main.h"
+	<fstream>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<algorithm>
+	<numeric>
+	<iostream>
+	<sstream>
+
+1543544587 g:\c与c++、\programweek\library\ourlib\library\boostfunction.h
+	<time.h>
+	<string>
+	<vector>
+	<cstdlib>
+
+1543540952 g:\c与c++、\programweek\library\ourlib\library\main.h
+
+1543545251 source:g:\c与c++、\programweek\library\ourlib\library\classtype.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<algorithm>
+	<cstring>
+	"Classtype.h"
+	"main.h"
+	"boostFunction.h"
+	"file.h"
+	"menu.h"
+
+1543541375 g:\c与c++、\programweek\library\ourlib\library\classtype.h
+	<string>
+	<vector>
+
+1543542422 g:\c与c++、\programweek\library\ourlib\library\file.h
+	<string>
+	<map>
+	"Classtype.h"
+
+1543540805 g:\c与c++、\programweek\library\ourlib\library\menu.h
+	<string>
+
+1543542072 source:g:\c与c++、\programweek\library\ourlib\library\file.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+	<sstream>
+	<map>
+	"main.h"
+	"file.h"
+	"Classtype.h"
+	"boostFunction.h"
+
+1543573688 source:g:\c与c++、\programweek\library\ourlib\library\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<conio.h>
+	<cstring>
+	"menu.h"
+	"file.h"
+	"main.h"
+	"boostFunction.h"
+	"Classtype.h"
+
